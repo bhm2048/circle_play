@@ -1,0 +1,5 @@
+{
+  "name": "歡樂名單小助手 - 抽獎與分組",
+  "description": "一個專為 HR 與老師設計的工具，支援 CSV 匯入、重複檢查、圓盤抽獎與自動分組功能。",
+  "requestFramePermissions": []
+}
