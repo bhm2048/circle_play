@@ -6,7 +6,7 @@
 
 這個專案已配置好本地運行與自動部署的相關設定。
 
-View your app in AI Studio: https://ai.studio/apps/56c81372-a6c1-4724-8e04-6d31dfe4ab8f
+View your  app in AI Studio: https://ai.studio/apps/56c81372-a6c1-4724-8e04-6d31dfe4ab8f
 
 ## 🚀 專案建置與本地執行 (Run Locally)
 
